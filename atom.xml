@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Dysnile&#39;s Blog</title>
   
-  
+  <subtitle>弱水三千，独取一瓢</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
