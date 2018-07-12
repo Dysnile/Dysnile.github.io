@@ -1923,7 +1923,7 @@ animation-play-state:paused;*/
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #606eff;
+  background: #41ff0b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2849,11 +2849,13 @@ animation-play-state:paused;*/
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
     box-shadow: 0 0 16px rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.8);
   }
 }
 @media (max-width: 767px) {
   .site-meta {
     box-shadow: 0 0 16px rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.8);
   }
 }
 .brand {
