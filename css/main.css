@@ -1969,7 +1969,7 @@ animation-play-state:paused;*/
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a388d9;
+  background: #3882c7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3295,7 +3295,7 @@ animation-play-state:paused;*/
   }
 }
 body {
-  background-image: url("/images/background.png");
+  background-image: url("http://jijiantuchuang123.oss-cn-shanghai.aliyuncs.com/18-8-19/32164911.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
