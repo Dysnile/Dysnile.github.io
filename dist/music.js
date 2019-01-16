@@ -20,6 +20,12 @@ const ap = new APlayer({
         artist: 'Halsey',
         url: 'http://filemusic.oss-cn-shanghai.aliyuncs.com/Bad%2BAt%2BLove-Halsey.mp3',
         cover: 'http://filemusic.oss-cn-shanghai.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20190116175443.png',
+      },
+      {
+        name: 'Closer',
+        artist: 'The Chainsmokers&Halsey',
+        url: 'http://www.ytmp3.cn/down/44450.mp3',
+        cover:'http://filemusic.oss-cn-shanghai.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20190116182202.png',
       }
     ]
 });
